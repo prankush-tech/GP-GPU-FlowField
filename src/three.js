@@ -38,7 +38,7 @@ export default class threeJS {
       0.01,
       1000
     );
-    this.camera.position.set(4.5, 4, 11);
+    this.camera.position.set(15.5, 4, 10);
 
     this.renderer = new THREE.WebGLRenderer({
       antialias: true,
